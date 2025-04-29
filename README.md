@@ -148,8 +148,8 @@ Este documento lista e explica as configurações personalizadas do `settings.js
 ## 📄 Licença
 
 Este repositório pode ser usado livremente, com ou sem alterações.  
-Caso redistribua, mantenha os créditos.
+Caso redistribua, mantenha os créditos à Origamid
 
 ---
 
-©️ Todos os direitos reservados ao autor.
+
